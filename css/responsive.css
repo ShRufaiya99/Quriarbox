@@ -1,0 +1,110 @@
+@media (min-width:320px) and (max-width:575px){
+
+    .navbar-toggler-icon {
+    width:1em;
+    }
+
+    .list {
+    font-size: 14px;
+    }
+
+    .list-a {
+    font-size: 14px;
+    }
+
+    .btn-nav {
+    font-size: 18px;
+    padding: 10px 16px;
+    }
+
+    .bannar-col-one{
+    padding-top:120px;
+    padding-left: 20px;
+    }
+
+    .bannar-h1 {
+    width: 100%;
+    font-size: 29px;
+    }
+
+    .bannar-p {
+    width: 76%;
+    padding-bottom: 20px;
+    padding-right: 2px;
+    }
+
+    .btn-bannar {
+    font-size: 16px;
+    }
+
+    .bannar-col-two {
+    width: 100%;
+    }
+
+    .bannar-img {
+    width: 25%;
+    padding-top: 80.48px;
+    margin-left: 3px;
+    }
+
+  .box-service-f{
+  width: 100%;
+  display: inline;
+  }
+
+  .service-text-one {
+    font-size: 25px;
+    padding-bottom: 13px;
+}
+    .service-h3 {
+    width: 100%;
+    font-size: 24px;
+    text-align: left;
+    margin-left: 80px;
+    }
+
+    .service-h2 {
+    font-size:28px;
+    text-align: left;
+    margin-left: 14px;
+    padding-bottom: 45px;
+    }
+
+    .box-service {
+    width: 23.5%;
+    margin-left: 8px;
+    margin-bottom: 30px;
+    }
+
+    .box-service-a {
+    width: 23.5%;
+    margin-left: 8px;
+    }
+
+    .service-img {
+    padding-top: 40px;
+    padding-bottom: 20px;
+    }
+
+    .service-p {
+    width: 230px;
+    font-size: 16px;
+    margin-left: 24px;
+    padding-bottom: 18px;
+    }
+
+    .service-ul {
+    padding-bottom: 25px;
+    }
+
+    .btn-outline-success {
+    font-size: 16px;
+    padding: 10px 64px;
+    }
+
+    .line {
+    width: 100%;
+    margin-left: 35px;
+    text-align: left;
+    }
+}
